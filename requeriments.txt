@@ -1,0 +1,18 @@
+Requisitos previos:
+
+   - Tener instalado el interprete de python
+   - instalación jre, para la visualización de arbol.
+   - pasos para visualizar el arbol.
+
+   			javac llull*.java
+   			grun llull root -tree < program.llull
+   			grun llull root -tree < program.llull
+Instrucción para instalar librerias
+
+	pip3 install nombre_libreria
+
+Librerias instaladas:
+   
+   - Termcolor
+   - Antlr4
+   - Colorama
