@@ -1,8 +1,5 @@
-												
-
-												 El llenguatge de programació Llull
-												 ===================================
-
+El llenguatge de programació Llull
+===================================
 
 Implementación del interprete y el pretty-print de lenguaje de progrmación llull. El glorioso.
 
