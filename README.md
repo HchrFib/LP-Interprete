@@ -35,8 +35,8 @@ Ejecución
 	
 	Modos de ejecución:
 
-	1)	python3 llull.py program.llull, ejecutará por defecto el método main
-	2)  python3 llull.py program.llull nombre_funcion arg1 arg2 .... argn
+	1) python3 llull.py program.llull, ejecutará por defecto el método main
+	2) python3 llull.py program.llull nombre_funcion arg1 arg2 .... argn
 
 
 
