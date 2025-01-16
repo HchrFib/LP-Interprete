@@ -7,7 +7,7 @@ Requisitos previos:
 
 	- Tener instalado el interprete de python
    - instalación jre, para la visualización de arbol.
-   - pasos para visualizar el arbol.
+   - pasos para visualizar el árbol.
 
    			javac llull*.java
    			grun llull root -tree < program.llull
@@ -40,15 +40,15 @@ Ejecución
 
 
 
-caracteristica del lenguaje:
-	- uso de funciones
-	- operaciones ariméticas muy simples
-	- crea arrays, 
-	- agrega y elementos de una array, para la obtención de elementos nuestro querido lenguaje puede obtener un índice a   traves de una espresión aritmetica.
-	- realiza funciones recursivas :
-	    - hanoi
-	    - mcd
-	    - numeros primos, etc
-	    - paso de paráemtros por referencia en el caso de los arrays y por valor para variables de tipo entero.
-	- Implentación de un pretty printer.
+Caracteristica del lenguaje:
+	- Uso de funciones
+	- Operaciones ariméticas muy simples
+	- Crea arrays, 
+	- Agrega y elementos de una array, para la obtención de elementos nuestro querido lenguaje puede obtener un índice a través de una expresión aritmética.
+	- Realiza funciones recursivas :
+	    - Hanoi
+	    - MCD
+	    - Números primos, etc
+	    - Paso de parámetros por referencia en el caso de los arrays y por valor para variables de tipo entero.
+	- Implementación de un pretty printer.
 
